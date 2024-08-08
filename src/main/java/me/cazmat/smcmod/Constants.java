@@ -5,4 +5,5 @@ public final class Constants {
 
     // General Definitions
     public static final String MOD_ID = "smcmod";
+    public static final String MOD_NAME = "SocietyMC";
 }
