@@ -1,7 +1,8 @@
-package me.cazmat.smcmod;
+package me.cazmat.smcmod.config;
 
 import com.electronwill.nightconfig.core.file.CommentedFileConfig;
 import com.electronwill.nightconfig.core.io.WritingMode;
+import me.cazmat.smcmod.Constants;
 import net.minecraftforge.common.ForgeConfigSpec;
 import net.minecraftforge.fml.common.Mod;
 
