@@ -1,9 +1,5 @@
 package me.cazmat.smcmod;
 
-public final class Constants {
-    protected Constants() {}
-
-    // General Definitions
+public class Constants {
     public static final String MOD_ID = "smcmod";
-    public static final String MOD_NAME = "SocietyMC";
 }
